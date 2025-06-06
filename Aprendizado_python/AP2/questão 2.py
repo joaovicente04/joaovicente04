@@ -1,0 +1,6 @@
+print('"Digite tres valores: "')
+A=int(input('1: '))
+B=int(input('2: '))
+C=int(input('3: '))
+M= max(A,B,C)
+print('O maior valor é',M)
