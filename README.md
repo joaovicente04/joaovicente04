@@ -3,7 +3,7 @@
 - 🧩 Atualmente trabalho no campo.
 - 🌱 Estudando Phyton e outras linguagens.
 - 🎮 Gamer nas horas vagas.
-- 📬 Contate meu e-mail: joaovicenteburin2004@sempreceub.com
+- 📬 Contate meu e-mail: joaovicenteburin2004@gmail.com
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaovicente04&show_icons=true&theme=chartreuse-dark"/>
