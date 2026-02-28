@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Vicente😁
 
-- 🧩 Atualmente trabalho no campo.
-- 🌱 Estudando Phyton e outras linguagens.
+- 🧩 Atualmente Sou Estagiário no Sistema CNA/SENAR.
+- 🌱 Ciência de Dados e Machine Learning | Microsoft Power BI | SQL | Python | Oracle | Elasticsearch.
 - 🎮 Gamer nas horas vagas.
 - 📬 Contate meu e-mail: joaovicenteburin2004@gmail.com
 
@@ -18,7 +18,9 @@
   
  
   ### Projetos Acadêmicos:
-  - Atualmente meus projetos são aprendizado de novas linguagens e cursos na area de TI.
+  - Banco de Dados de Vendas em SQL.
+  - Modelo de IA para jogo (Aprendizado para Machine learning)
+  - Documentação de todo código relevante durante a graduação de Ciencia de Dados e Machine Learning.
 
 ### Objetivo:
 - Esse repositório foi criado com o objetivo de facilitar a comunicação e apresentação do meu perfil, de forma clara e intuitiva
